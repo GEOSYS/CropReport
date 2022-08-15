@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome
+title: World in 10 - August 2022
 nav_order: 1
 ---
 
