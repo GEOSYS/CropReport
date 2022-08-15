@@ -1,3 +1,8 @@
+---
+layout: default
+title: Welcome
+nav_order: 1
+---
 
 # - August 12, 2022 II Geosys World in 10 Overview Report -
 
