@@ -1,7 +1,8 @@
 
+
 # - August 12, 2022 II Geosys World in 10 Overview Report -
 
-Through daily monitoring on the [Geosys application](https://earthdailyagro.com/), **EarthDaily Agro** keeps a pulse on the world's major crop producing regions. Here is a highlight of the worldwide crop conditions in 10 pictures.
+_Through daily monitoring on the [Geosys application](https://earthdailyagro.com/), **EarthDaily Agro** keeps a pulse on the world's major crop producing regions. Here is a highlight of the worldwide crop conditions in 10 pictures._
 
 **1. USA -** Will the improvement in the water situation on part of the CornBelt continue in the coming days?
 
