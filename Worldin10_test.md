@@ -2,88 +2,89 @@
 layout: default
 title: World in 10 - July 2022
 nav_order: 2
+---
 
-# - August 12, 2022 II Geosys World in 10 Overview Report -
+# - July 29, 2022 II Geosys World in 10 Overview Report -
 
-Through daily monitoring on the [Geosys application](https://earthdailyagro.com/), **EarthDaily Agro** keeps a pulse on the world's major crop producing regions. Here is a highlight of the worldwide crop conditions in 10 pictures.
+_Through daily monitoring on the [Geosys application](https://earthdailyagro.com/), **EarthDaily Agro** keeps a pulse on the world's major crop producing regions. Here is a highlight of the worldwide crop conditions in 10 pictures._
 
-**1. USA -** Will the improvement in the water situation on part of the CornBelt continue in the coming days?
+**1. EUROPE -** Is the water situation improving for maize?
 
 **NO**
 
-In the last 10 years, precipitation 10 to 100% above average was observed in the Central and Eastern CornBelt, while the West remained drier ①. In the coming days, the entire corn zone will be exposed to a dry trend according to the ECMWF ②.
+The very low soil moisture values across the continent in the last 10 days ① will remain extremely worrying in the coming days in the main corn producing countries (with however a more heterogeneous situation in Spain ②.
 
 ![image1](images/images1.jpg)
 
-**2. USA -** Are the vegetation indices stable in the CornBelt?
-
-**YES**
-
-Even if we observe here and there some drops in values, the vegetation indices remained mostly stable in the CornBelt between August 01 ① and August 09 ②. However, the water balance is very worrying ③. How much longer will the cultures be able to last? To be continued!
-
-![image1](images/images2.jpg)
-
-**3. CANADA -** Will the stressful weather conditions for the end of the cycle continue in the coming days?
-
-**YES**
-
-In the coming days, a dry ① and very hot ② trend is anticipated by the European ECMWF model throughout the spring wheat zone.
-
-![image1](images/images3.jpg)
-
-**4. BRAZIL -** Is the water situation satisfactory in the wheat zone?
-
-**YES**
-
-In the last 10 days, soil moisture was correct in most of the wheat zone, with the exception of part of Parana ①. In the next few days, even this area will experience high humidity values ②, leading to favorable conditions for production potential.
-
-![image1](images/images4.jpg)
-
-**5. ARGENTINA -** Are the vegetation indices significantly improving in the wheat and barley zone?
-
-**YES**
-
-The comparison of vegetation indices between August 01 ① and August 09 ② highlights a clear improvement in NDVI values in the province of Buenos Aires, the heart of wheat and especially barley production. This is excellent news a few weeks before heading. However, the vegetation indices in the provinces of Cordoba and Santa Fe remain very disappointing. To be continued!
-
-![image1](images/images5.jpg)
-
-**6. AUSTRALIA -** Are continental vegetation indices improving in the East?
-
-**YES**
-
-The vegetation indices in northern New South Wales and southern Queensland were still very low on August 01 ①, but a few days later on August 09 showed values much closer to average ②. This dynamic is very encouraging for the future.
-
-![image1](images/images6.jpg)
-
-**7. EUROPE -** Is an improvement in the water situation anticipated for the next few days?
-
-**YES**
-
-Precipitation for the next 10 days is expected above average over parts of France, Italy, Poland, Romania and Bulgaria ①. This is good news for corn grain filler. However, in view of the still catastrophic vegetation indices ②, we remain very pessimistic with regard to the production potential.
-
-![image1](images/images7.jpg)
-
-**8. RUSSIA -** Did the weather conditions of the last few days allow for rapid ripening of wheat grains?
-
-**YES**
-
-The conditions of the last 10 days in the spring wheat zone, dry ① and hot ② allow a slightly faster end of cycle by accelerating the grain maturation phase. We remain very optimistic for the Russian wheat production potential.
-
-![image1](images/images8.jpg)
-
-**9. UKRAINE -** Do crop situations seem correct in the maize zone?
-
-**YES**
-
-In a very large part of Ukraine, soil moisture is above average ①, as are vegetation indices ②, thus indicating an absence of water stress for corn and sunflower in Ukraine.
-
-![image1](images/images9.jpg)
-
-**10. CHINA -** Is the water situation deteriorating in the northeast of the country, the heart of corn and soybean production?
+**2. EUROPE -** Are the corn vegetation indices improving?
 
 **NO**
 
-Above-average soil moisture in the Northeast for the past 10 days ① will remain satisfactory for the next 10 days ②. This is good news for corn and soybean crops. Note, however, that the center of the country (south of the corn and soybean zone) remains particularly dry. To be continued!
+The vegetation indices, which were much lower than average on July 17 in all the major corn production zones ①, were still catastrophic on July 27 ②.
+
+![image1](images/images2.jpg)
+
+**3. UKRAINE -** Are the vegetation indices still close to or above average in the maize zone?
+
+**YES**
+
+Soil moistureremains above average in the north of the country, in the heart of the corn zone ①. In this same area, the vegetation indices are at this stage quite correct, close to or above the averages ②.
+
+![image1](images/images3.jpg)
+
+**4. RUSSIA -** Are the vegetation indices exceptional throughout the spring wheat zone?
+
+**NO**
+
+The vegetation indices, still mostly above average in the spring wheat zone, are disappointing in Siberia ①. In this district, near the border with Kazakhstan, we find NDVI values lower than average and lower than last year ②. Soil moisture will decrease in the next few days, opening up the possibility of an end to the cycle marked by drought ③. To be continued!
+
+![image1](images/images4.jpg)
+
+**5. USA -** Are the vegetation indices deteriorating in connection with water stress on part of the CornBelt?
+
+**NO**
+
+NDVI values appear stable in the CornBelt between July 17 ① and July 27 ②; still close to or above average in most of the area.
+
+![image1](images/images5.jpg)
+
+**6. USA -** Should the drought continue in the coming days in the corn zone?
+
+**YES**
+
+Both ECMWF ① and GFS ② models anticipate light precipitation in the coming days over the CornBelt, although the GFS is more optimistic in the East.
+
+![image1](images/images6.jpg)
+
+**7. CANADA -** Is the water situation improving?
+
+**YES**
+
+In the last 30 days, precipitation has been low in the northern half of the spring wheat zone ①. In the next few days, the rains will be heavy in this same area which has been too dry until now ②.
+
+![image1](images/images7.jpg)
+
+**8. ARGENTINA -** Is the water situation in the wheat zone improving?
+
+**YES**
+
+Soil moisture, which had hitherto been much lower than average over almost the entire wheat and barley zone ①, is improving, with values which finally exceed the average values in the south of the country ②. We will monitor the evolution of vegetation indices to measure the reaction of wheat and barley to the improvement of the water situation. To be continued!
+
+![image1](images/images8.jpg)
+
+**9. AUSTRALIA -** Are the vegetation indices in the East still a concern?
+
+**YES**
+
+In northern New South Wales and southern Queensland, vegetation indices remain well below average ①, in line with the poor year 2017 ②.
+
+![image1](images/images9.jpg)
+
+**10. INDIA -** Are the vegetation indices still illegible in the center of the country?
+
+**YES**
+
+In the South of Madhya Pradesh or in Maharashtra, where a large part of soya and maize is produced, the vegetation indices remain well below average ①. Observation of the NDVI curves highlights a very surprising dynamic because it is much too abrupt at this stage ②. The very heavy rainfall received in the last few days ③ provides information on the problem: the clouds are blocking the reading of the NDVI signal, and it will be necessary to wait to correctly detect the vigor of the crops in the area.
 
 ![image1](images/images10.jpg)
 
