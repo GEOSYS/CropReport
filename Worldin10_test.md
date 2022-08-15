@@ -16,7 +16,7 @@ The very low soil moisture values across the continent in the last 10 days ① w
 
 ![image1](images/images1.jpg)
 
-## 2. EUROPE -** Are the corn vegetation indices improving?
+## 2. EUROPE - Are the corn vegetation indices improving?
 
 **NO**
 
@@ -24,7 +24,7 @@ The vegetation indices, which were much lower than average on July 17 in all the
 
 ![image1](images/images2.jpg)
 
-## 3. UKRAINE -** Are the vegetation indices still close to or above average in the maize zone?
+## 3. UKRAINE - Are the vegetation indices still close to or above average in the maize zone?
 
 **YES**
 
@@ -32,7 +32,7 @@ Soil moistureremains above average in the north of the country, in the heart of 
 
 ![image1](images/images3.jpg)
 
-## 4. RUSSIA -** Are the vegetation indices exceptional throughout the spring wheat zone?
+## 4. RUSSIA - Are the vegetation indices exceptional throughout the spring wheat zone?
 
 **NO**
 
@@ -40,7 +40,7 @@ The vegetation indices, still mostly above average in the spring wheat zone, are
 
 ![image1](images/images4.jpg)
 
-## 5. USA -** Are the vegetation indices deteriorating in connection with water stress on part of the CornBelt?
+## 5. USA - Are the vegetation indices deteriorating in connection with water stress on part of the CornBelt?
 
 **NO**
 
@@ -48,7 +48,7 @@ NDVI values appear stable in the CornBelt between July 17 ① and July 27 ②; s
 
 ![image1](images/images5.jpg)
 
-## 6. USA -** Should the drought continue in the coming days in the corn zone?
+## 6. USA - Should the drought continue in the coming days in the corn zone?
 
 **YES**
 
@@ -56,7 +56,7 @@ Both ECMWF ① and GFS ② models anticipate light precipitation in the coming d
 
 ![image1](images/images6.jpg)
 
-## 7. CANADA -** Is the water situation improving?
+## 7. CANADA - Is the water situation improving?
 
 **YES**
 
@@ -64,7 +64,7 @@ In the last 30 days, precipitation has been low in the northern half of the spri
 
 ![image1](images/images7.jpg)
 
-## 8. ARGENTINA -** Is the water situation in the wheat zone improving?
+## 8. ARGENTINA - Is the water situation in the wheat zone improving?
 
 **YES**
 
@@ -72,7 +72,7 @@ Soil moisture, which had hitherto been much lower than average over almost the e
 
 ![image1](images/images8.jpg)
 
-## 9. AUSTRALIA -** Are the vegetation indices in the East still a concern?
+## 9. AUSTRALIA - Are the vegetation indices in the East still a concern?
 
 **YES**
 
@@ -80,7 +80,7 @@ In northern New South Wales and southern Queensland, vegetation indices remain w
 
 ![image1](images/images9.jpg)
 
-## 10. INDIA -** Are the vegetation indices still illegible in the center of the country?
+## 10. INDIA - Are the vegetation indices still illegible in the center of the country?
 
 **YES**
 
@@ -88,7 +88,7 @@ In the South of Madhya Pradesh or in Maharashtra, where a large part of soya and
 
 ![image1](images/images10.jpg)
 
-**Want to learn more?**
+## Want to learn more?
 
 **Join EarthDaily Agro on** **[LinkedIn](https://www.linkedin.com/company/geosys)**  **or** **[Twitter](https://www.twitter.com/geosys)**  **for more news and insights, or visit us online at** [EarthDailyAgro.com](https://earthdailyagro.com/)
 
