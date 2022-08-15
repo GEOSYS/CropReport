@@ -8,7 +8,7 @@ nav_order: 1
 
 Through daily monitoring on the [Geosys application](https://earthdailyagro.com/), **EarthDaily Agro** keeps a pulse on the world's major crop producing regions. Here is a highlight of the worldwide crop conditions in 10 pictures.
 
-**1. USA -** Will the improvement in the water situation on part of the CornBelt continue in the coming days?
+## 1. USA - Will the improvement in the water situation on part of the CornBelt continue in the coming days?
 
 **NO**
 
@@ -16,7 +16,7 @@ In the last 10 years, precipitation 10 to 100% above average was observed in the
 
 ![image1](images/images1.jpg)
 
-**2. USA -** Are the vegetation indices stable in the CornBelt?
+## 2. USA - Are the vegetation indices stable in the CornBelt?
 
 **YES**
 
@@ -24,7 +24,7 @@ Even if we observe here and there some drops in values, the vegetation indices r
 
 ![image1](images/images2.jpg)
 
-**3. CANADA - Will the stressful weather conditions for the end of the cycle continue in the coming days?
+## 3. CANADA - Will the stressful weather conditions for the end of the cycle continue in the coming days?
 
 **YES**
 
@@ -32,7 +32,7 @@ In the coming days, a dry ① and very hot ② trend is anticipated by the Europ
 
 ![image1](images/images3.jpg)
 
-**4. BRAZIL - Is the water situation satisfactory in the wheat zone?
+## 4. BRAZIL - Is the water situation satisfactory in the wheat zone?
 
 **YES**
 
@@ -40,7 +40,7 @@ In the last 10 days, soil moisture was correct in most of the wheat zone, with t
 
 ![image1](images/images4.jpg)
 
-**5. ARGENTINA - Are the vegetation indices significantly improving in the wheat and barley zone?
+## 5. ARGENTINA - Are the vegetation indices significantly improving in the wheat and barley zone?
 
 **YES**
 
@@ -48,7 +48,7 @@ The comparison of vegetation indices between August 01 ① and August 09 ② hig
 
 ![image1](images/images5.jpg)
 
-**6. AUSTRALIA -** Are continental vegetation indices improving in the East?
+## 6. AUSTRALIA -** Are continental vegetation indices improving in the East?
 
 **YES**
 
@@ -56,7 +56,7 @@ The vegetation indices in northern New South Wales and southern Queensland were 
 
 ![image1](images/images6.jpg)
 
-**7. EUROPE - Is an improvement in the water situation anticipated for the next few days?
+## 7. EUROPE - Is an improvement in the water situation anticipated for the next few days?
 
 **YES**
 
@@ -64,7 +64,7 @@ Precipitation for the next 10 days is expected above average over parts of Franc
 
 ![image1](images/images7.jpg)
 
-**8. RUSSIA - Did the weather conditions of the last few days allow for rapid ripening of wheat grains?
+## 8. RUSSIA - Did the weather conditions of the last few days allow for rapid ripening of wheat grains?
 
 **YES**
 
@@ -72,7 +72,7 @@ The conditions of the last 10 days in the spring wheat zone, dry ① and hot ②
 
 ![image1](images/images8.jpg)
 
-**9. UKRAINE - Do crop situations seem correct in the maize zone?
+## 9. UKRAINE - Do crop situations seem correct in the maize zone?
 
 **YES**
 
@@ -80,7 +80,7 @@ In a very large part of Ukraine, soil moisture is above average ①, as are vege
 
 ![image1](images/images9.jpg)
 
-**10. CHINA - Is the water situation deteriorating in the northeast of the country, the heart of corn and soybean production?
+## 10. CHINA - Is the water situation deteriorating in the northeast of the country, the heart of corn and soybean production?
 
 **NO**
 
